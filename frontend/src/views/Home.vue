@@ -7,7 +7,7 @@
         <div id="top"></div>
         <div id="bottom"></div>
         <b-navbar-item id="fontnavbar" class="title is-2">
-          Milligram
+          Hey Hey HogeHoge
         </b-navbar-item>
       </template>
     </b-navbar>
@@ -38,6 +38,7 @@ export default class Home extends Vue {}
 <style scoped>
 #fontnavbar {
   font-family: HaloHandletter;
+  color:green;
 }
 #top,
 #bottom,
